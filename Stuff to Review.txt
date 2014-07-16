@@ -1,0 +1,4 @@
+Need to review the lambdas example of SICP lecture at the very end - lecture# 20 minutes before the end of 3A
+Levels of language vs a strict hierarchy of tasks... Prof's view is the levels of language design is more robust and can withstand changes more easily.
+
+
